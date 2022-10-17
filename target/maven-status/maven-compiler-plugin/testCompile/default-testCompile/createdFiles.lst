@@ -1,0 +1,7 @@
+stepDefinitions\LoginSteps.class
+com\log4j\test\Logtest.class
+com\log4j\test\TestRestAssured.class
+com\runner\TestRunner.class
+stepDefinitions\RegisterationSteps.class
+stepDefinitions\BookingSteps.class
+com\log4j\test\InitLogger.class

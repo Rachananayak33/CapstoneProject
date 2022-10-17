@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="com.runner.TestRunner" time="10.043" errors="0" skipped="0">
+  <properties>
+    <property name="PT8HOME" value="C:\Program Files\Cisco Packet Tracer 8.1.1"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\CSCO-W-PF352A7K"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_161\jre"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\endorsed"/>
+    <property name="OneDriveCommercial" value="C:\Users\nniharik\OneDrive - Cisco"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Thycotic\Powershell\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="CISCO"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="JOB_NAME" value="Capstone_prjt"/>
+    <property name="COMPUTERNAME" value="CSCO-W-PF352A7K"/>
+    <property name="ANDROID_HOME" value="C:\Users\nniharik\AppData\Local\Android\Sdk"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="nniharik"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\nniharik\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Capstone_prjt/3/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-Capstone_prjt-3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN C:\Users\nniharik\.jenkins\war\WEB-INF\lib\remoting-4.11.2.jar C:\Users\nniharik\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\nniharik\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 60227"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="f428d77f6a421e9b"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_161/bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Notepad++;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Users\nniharik\install\ANT\bin;C:\Users\nniharik\AppData\Local\Android\Sdk\platform-tools;C:\Users\nniharik\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\nniharik\AppData\Local\Programs\Python\Python310\;C:\Users\nniharik\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="java.io.tmpdir" value="C:\Users\nniharik\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\nniharik\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Capstone_prjt/3/"/>
+    <property name="M2_HOME" value="C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN"/>
+    <property name="=C:" value="C:\Users\nniharik\install"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="f428d77f6a421e9b"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\nniharik\.jenkins\workspace\Capstone_prjt@tmp"/>
+    <property name="MAVEN_HOME" value="C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\nniharik\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="HOMEPATH" value="\Users\nniharik"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="maven3.interceptor" value="C:\Users\nniharik\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN/bin;C:\Program Files\Java\jdk1.8.0_161/bin;C:\Program Files\Java\jdk1.8.0_161/bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Notepad++;C:\Program Files\Java\jdk1.8.0_161\bin;C:\Users\nniharik\install\ANT\bin;C:\Users\nniharik\AppData\Local\Android\Sdk\platform-tools;C:\Users\nniharik\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\nniharik\AppData\Local\Programs\Python\Python310\;C:\Users\nniharik\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="CapstonePrac"/>
+    <property name="POM_ARTIFACTID" value="CapstonePrac"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Capstone_prjt/"/>
+    <property name="ANT_HOME" value="C:\Users\nniharik\install\ANT"/>
+    <property name="OneDrive" value="C:\Users\nniharik\OneDrive - Cisco"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Capstone_prjt/3/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\nniharik\.jenkins"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="TEMP" value="C:\Users\nniharik\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8e0c"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\nniharik\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="CISCO"/>
+    <property name="NSPR_NATIVE_THREADS_ONLY" value="1"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/Capstone_prjt/3/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_161"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\nniharik"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Capstone_prjt/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\nniharik"/>
+    <property name="USERNAME" value="nniharik"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="cisco.com"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\nniharik\eclipse-workspace\CapstonePrac"/>
+    <property name="maven.conf" value="C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\nniharik\AppData\Local\Temp"/>
+    <property name="UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="java.class.path" value="C:\Users\nniharik\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN\boot\plexus-classworlds-2.6.0.jar;C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\nniharik\.jenkins\workspace\Capstone_prjt"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/Capstone_prjt/3/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_161\jre\classes"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_161/bin"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\nniharik\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\MAVEN"/>
+    <property name="JOB_BASE_NAME" value="Capstone_prjt"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="CapstonePrac"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="Title of your feature #1" name="Sam is able to select a flight" time="4.29"/>
+  <testcase classname="Title of your feature #2" name="user is able to login successfully with valid details" time="2.714"/>
+  <testcase classname="Title of your feature #3" name="sign up" time="3.039"/>
+</testsuite>
